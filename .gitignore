@@ -1,0 +1,12 @@
+# Maven generated files
+target/
+
+# Generated JAR releases
+releases/
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
