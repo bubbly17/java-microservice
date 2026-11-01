@@ -20,7 +20,7 @@ public class App {
 
             String response = """
                 {
-                    "message": "Hello from Java Microservice! This is vaishnavi,checking the changes 1 2 3",
+                    "message": "Hello from Java Microservice! This is vaishnavi. checking if the jenkins pipeline is working or not!!",
                     "status": "Success"
                 }
                 """;
